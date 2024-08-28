@@ -1,2 +1,2 @@
 # JSX-Code-Challenge-1
-Created with CodeSandbox
+That's literaly just the easiest way to start a react app
